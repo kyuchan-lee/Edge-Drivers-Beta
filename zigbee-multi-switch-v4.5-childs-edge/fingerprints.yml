@@ -719,6 +719,11 @@ zigbeeManufacturer:
     manufacturer: _TZ3000_r0pmi2p3
     model: TS0014
     deviceProfileName: four-switch
+  - id: "_TZ3000_mrduubod/TS0014"
+    deviceLabel: TS0014 Switch
+    manufacturer: _TZ3000_mrduubod
+    model: TS0014
+    deviceProfileName: four-switch
   - id: "_TZ3000_mtnpt6ws/TS0002"
     deviceLabel: TS0002 Double Switch
     manufacturer: _TZ3000_mtnpt6ws
